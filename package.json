@@ -1,0 +1,16 @@
+{
+  "name": "interpolate_dates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "interpolate_dates.js",
+  "type": "module",
+  "scripts": {
+    "start": "node interpolate_dates.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "d3-interpolate": "^3.0.1"
+  }
+}
